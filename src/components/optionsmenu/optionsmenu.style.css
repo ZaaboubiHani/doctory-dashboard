@@ -1,0 +1,17 @@
+.options-menu{
+    background-color: indigo;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px 15px;
+    border: none;
+    outline: none;
+}
+
+.options-menu:focus {
+    outline: none; /* Remove focus outline on selection */
+  }
+
+.options-menu option{
+    border: none;
+}
